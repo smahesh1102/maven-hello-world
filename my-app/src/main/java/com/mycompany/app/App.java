@@ -12,6 +12,7 @@ public class App
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
+        String test
         /**
          * Checker prevents this from compiling...
          */
