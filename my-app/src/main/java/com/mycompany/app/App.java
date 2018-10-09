@@ -12,6 +12,7 @@ public class App
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
+        String test;
         /**
          * Checker prevents this from compiling...
          */
@@ -25,5 +26,6 @@ public class App
          * http://checkerframework.org
          */
         System.out.println("... but thankfully, Checker has our back: http://checkerframework.org");
+        System.out.println("hello")
     }
 }
