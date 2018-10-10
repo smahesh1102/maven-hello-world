@@ -1,5 +1,7 @@
 # A simple, minimal Maven example: hello world
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/612c204650354ed3a67f304f327320d9)](https://app.codacy.com/app/shwetamaheshwari0211/maven-hello-world?utm_source=github.com&utm_medium=referral&utm_content=smahesh1102/maven-hello-world&utm_campaign=Badge_Grade_Settings)
+
 To create the files in this git repo we've already run `mvn archetype:generate` from http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 
     mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
